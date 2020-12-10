@@ -1,24 +1,27 @@
+div {
+	display: block; 
+}
+		
 .footer {
-     padding: 40px;
-     border-radius: 4px;
-     margin: 20px 0px;
-     text-align: center;
+	padding: 40px;
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
 }
 
  .list-inline li {
-    display: inline;
-    padding: 20px;
+	display: inline;
+	padding: 20px;
 }
 
 .list-inline {
-    list-style: none;
-    padding-left: 0px;
+	list-style: none;
+	padding-left: 0px;
 }
 
 .list-inline i {
-    font-size: 40px;
+	font-size: 40px;
 	color: royalblue;
-
 }
 
 .list-inline i:hover{
